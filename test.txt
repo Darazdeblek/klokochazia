@@ -1,3 +1,5 @@
 Premier fichier du projet
 
 Je me branche au projet depuis github !
+
+Depuis un autre répertoire
